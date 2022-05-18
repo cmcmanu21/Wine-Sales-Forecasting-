@@ -10,9 +10,11 @@ This was an assignment from Dr. Xue Guo's Advanced Business Analytics course at 
 
 3.) Linear Trend and Seasonality 
 
-4.) Simple Exponential Smoothing 
+4.) Simple Exponential Smoothing
 
 The performance of each model was compared and the best forecasting model was chosen based on the lowest MAPE value.
+
+-----
 
 This assignment considered three questions...
 
