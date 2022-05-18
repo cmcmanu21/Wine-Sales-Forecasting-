@@ -24,5 +24,6 @@ This assignment considered three questions...
 
 3.) Identify the best forecasting model. Please provide any evidence to support this claim.
 
-The plot of the dataset and results of each model can be found in the ... file.
-The R script for each model can be found in the ... file.
+The plot of the dataset and results of each model can be found in the "Wine Sales Model Results" file.
+
+The R script for each model can be found in the "Wine Sales R Script" file.
