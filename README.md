@@ -26,4 +26,4 @@ This assignment considered three questions...
 
 The plot of the dataset and results of each model can be found in the "Wine Sales Model Results" file.
 
-The R script for each model can be found in the "Wine Sales R Script" file.
+To reproduce this project, download the "AustralianWines.csv" file and the "Wine Sales R Script" file!
